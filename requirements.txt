@@ -1,0 +1,5 @@
+lucifer-ml
+mlfoundry
+servicefoundry
+gradio
+IPython
