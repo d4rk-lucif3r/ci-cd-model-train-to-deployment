@@ -2,6 +2,13 @@
 
 This project aims to create a model training and deployment pipeline for a machine learning model.
 
+<p align='left'>
+  
+  <a href="https://colab.research.google.com/drive/1BBTdAr1STyQ5bu6XI3QbZVqAmZe00Mnl?usp=sharing">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
+  </a>&nbsp;&nbsp;
+</p>
+
 ## Installation
 
 1. Clone the repository
