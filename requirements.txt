@@ -1,5 +1,5 @@
 lucifer-ml
 mlfoundry
-servicefoundry
+servicefoundry>=0.2.20
 gradio
 IPython
