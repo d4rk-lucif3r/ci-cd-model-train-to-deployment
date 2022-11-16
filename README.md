@@ -36,4 +36,4 @@ MIT License
 
 ## Blog
 
-[Medium Blog]
+[Medium Blog]9https://lucif3r4.medium.com/automating-model-training-and-model-deployment-5bc64bb24d94)
